@@ -1,4 +1,4 @@
 # linkstock
 
 ## Documentation
-Link to 
+Link to https://codenine.gitbook.io/what-is-linkstock/
