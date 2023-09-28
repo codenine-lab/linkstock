@@ -8,7 +8,7 @@ assignees: ""
 
 # Elements Needing Addition/Improvement(추가/개선 필요 요소)
 
-# Reasons for Addition/Improvement(추가/개선 필요 요소)
+# Reasons for Addition/Improvement(추가/개선 필요 근거)
 
 # Detailed Requirements(상세 요구 사항)
 
